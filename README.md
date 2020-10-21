@@ -1,0 +1,2 @@
+# votebot
+Voter Discord Bot
